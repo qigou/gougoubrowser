@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>GouGouBrowser.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>GouGouBrowser2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4B381C7F17721609001D5FF6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4B41708D182A7AEA00DA1E21</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4B41713E182A807800DA1E21</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4BDFBDE0182A79130069BF2C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4BDFBDF6182A79130069BF2C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

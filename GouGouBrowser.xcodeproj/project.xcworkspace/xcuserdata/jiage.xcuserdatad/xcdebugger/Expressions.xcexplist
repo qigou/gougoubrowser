@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[DownloadViewController refreshDownload]:DownloadViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DownloadViewController tableView:didSelectRowAtIndexPath:]:DownloadViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController keyboardWillShow:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "keyboardShown">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DownloadViewController tableView:numberOfRowsInSection:]:DownloadViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[downloadedVideos count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AddQuickController viewDidLoad]:AddQuickController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DownloadViewController resetDownloadVideos]:DownloadViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HistoryViewController tableView:didSelectRowAtIndexPath:]:HistoryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[indexPath isEqual:selectIndex]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate addDownload:delegate:]:AppDelegate.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[VideoDownloader fetchTsFilesFromM3u8Contents:]:VideoDownloader.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[VideoDownloader downloadWhilePlayFilePath]:VideoDownloader.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HistoryViewController didSelectCellRowFirstDo:nextDo:]:HistoryViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[VideoDownloader selectHistory:withLimit:]:VideoDownloader.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HistoryViewController viewDidLoad]:HistoryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[data_arr objectAtIndex:(i-1)];">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController viewWillAppear:]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LocalViewController openSubView:]:LocalViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[btn superview]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HistoryViewController actionSheet:clickedButtonAtIndex:]:HistoryViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController tableView:cellForRowAtIndexPath:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[dic objectForKey:@&quot;title&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
