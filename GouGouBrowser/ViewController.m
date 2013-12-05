@@ -220,7 +220,7 @@
     [UIView setAnimationCurve:UIViewAnimationCurveEaseInOut];
     [UIView setAnimationDelegate:self];
     [UIView setAnimationDuration:0.1];          //动画持续的时间
-    
+    //hello
     //这里添加你对UIView所做改变的代码
     text_url_frame.size.width -= 50;
     text_url.frame = text_url_frame;
